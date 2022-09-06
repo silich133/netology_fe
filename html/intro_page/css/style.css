@@ -1,4 +1,12 @@
 body {
     background-color: purple;
+    font-family: Arial, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #fff;
+}
+
+body a {
+    text-decoration: none;
     color: #fff;
 }
